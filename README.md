@@ -1,4 +1,5 @@
 # SUBLEVEL 9: Free Demo
+  ▶ **Play the free demo in your browser:** https://alphazolo12200-tech.github.io/sublevel9-demo/
 
 A first-person 3D horror game that runs in your browser. In 1974 Hollowmere Sanatorium sealed its lowest floor, Sublevel 9. You are Mara Quinn, searching for your missing father, with something in the dark that hates the light.
 
