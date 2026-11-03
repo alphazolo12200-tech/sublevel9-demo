@@ -1,0 +1,8 @@
+© 2026 alphazolozyro. All rights reserved.
+
+SUBLEVEL 9 (including its code, artwork, audio design, text and story) is the property of alphazolozyro. You may play it for personal, non-commercial use. You may not copy, redistribute, resell, sublicense, modify, re-upload or use it to train other products without prior written permission from the author.
+
+THIRD-PARTY NOTICE
+This game loads three.js (MIT License, © three.js authors) from a public CDN. three.js remains the property of its respective authors.
+
+This notice is provided for information and is not legal advice.
